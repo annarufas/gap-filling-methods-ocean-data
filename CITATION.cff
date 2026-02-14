@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository in your research, please cite
+  it as:
+authors:
+  - given-names: Anna
+    family-names: Rufas
+    orcid: 'https://orcid.org/0000-0003-3800-8879'
+title: >-
+  annarufas/gap-filling-methods-ocean-data: MATLAB Tools for Gap Filling in Oceanographic Datasets
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-02-14

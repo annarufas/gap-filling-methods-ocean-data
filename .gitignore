@@ -1,0 +1,9 @@
+resources/external/*/
+code/matlab/*.asv
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+resources/internal/*.asv
+figures/*.pdf
+.DS_Store
