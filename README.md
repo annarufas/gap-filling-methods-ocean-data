@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18642249.svg)](https://doi.org/10.5281/zenodo.18642249)
+
 # MATLAB Tools for Gap Filling in Oceanographic Datasets
 
 This repository provides MATLAB tools for gap-filling oceanographic datasets. TheSE tools are designed to generate gap-free climatological products for use in ocean biogeochemical modelling and analysis.
